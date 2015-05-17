@@ -34,8 +34,10 @@
 
 .links a {
   color:black;
-  font-size: 25px;
+  font-size: 15px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'andika_basicregular', sans-serif; 
+  font-weight:bold;
 }
 
 header {
@@ -45,3 +47,15 @@ header {
 hr {
   clear:both;
 }
+
+h1 {
+  font-family: "andika_basicregular", sans-serif;
+  font-weight:bold; 
+  font-size:30px;
+}
+
+h2 {
+  font-family: "andika_basicregular", sans-serif;
+  font-size:25px;
+ }
+
