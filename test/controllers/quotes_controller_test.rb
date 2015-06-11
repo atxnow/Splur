@@ -11,4 +11,18 @@ class QuotesControllerTest < ActionController::TestCase
     get :show, :id => 'OMG'
     assert_response :not_found
   end
-end
+
+  
+  test "create a quote success" do
+  	
+  end
+
+  test "create a quote validation error" do 
+
+  end 
+
+
+
+
+
+d
