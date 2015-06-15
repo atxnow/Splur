@@ -12,13 +12,12 @@ class QuotesControllerTest < ActionController::TestCase
     assert_response :not_found
   end
 
-  
   test "create a quote success" do
-  	
+
   end
 
-  test "create a quote validation error" do 
+  test "create a quote validation error" do
+    
+  end
 
-  end 
-
-end 
+end
