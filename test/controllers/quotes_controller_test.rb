@@ -21,8 +21,4 @@ class QuotesControllerTest < ActionController::TestCase
 
   end 
 
-
-
-
-
-d
+end 
